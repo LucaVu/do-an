@@ -1,0 +1,27 @@
+{
+    "slider": [
+        {"id" : 1, "title": "Tiêu đề hình 1", "desc": "Mô tả slider của hình 1", "img" : "https://cdn.smartslider3.com/wp-content/uploads/2019/05/sliderimages.png"},
+        {"id" : 2, "title": "Tiêu đề hình 2", "desc": "Mô tả slider của hình 2", "img" : "https://ps.w.org/ml-slider/assets/banner-1544x500.png?rev=2907610"},
+        {"id" : 3, "title": "Tiêu đề hình 3", "desc": "Mô tả slider của hình 3", "img" : "https://soliloquywp.com/wp-content/uploads/2018/11/nb_ist_cover.jpg"}
+    ],
+    "menu": [
+        {"id": 1, "name": "Trang chủ", "link" : "#trangchu"},
+        {"id": 2, "name": "Phim hành động", "link" : "#trangchu"},
+        {"id": 3, "name": "Phim phiêu lưu", "link" : "#trangchu"},
+        {"id": 4, "name": "Phim hoạt hình", "link" : "#trangchu"}
+    ],
+    "film": [
+        {"id": 1, "name": "Trang chủ", "link" : "#trangchu"},
+        {"id": 2, "name": "Phim hành động", "link" : "#trangchu"},
+        {"id": 3, "name": "Phim phiêu lưu", "link" : "#trangchu"},
+        {"id": 4, "name": "Phim hoạt hình", "link" : "#trangchu"},
+        {"id": 1, "name": "Trang chủ", "link" : "#trangchu"},
+        {"id": 2, "name": "Phim hành động", "link" : "#trangchu"},
+        {"id": 3, "name": "Phim phiêu lưu", "link" : "#trangchu"},
+        {"id": 4, "name": "Phim hoạt hình", "link" : "#trangchu"},
+        {"id": 1, "name": "Trang chủ", "link" : "#trangchu"},
+        {"id": 2, "name": "Phim hành động", "link" : "#trangchu"},
+        {"id": 3, "name": "Phim phiêu lưu", "link" : "#trangchu"},
+        {"id": 4, "name": "Phim hoạt hình", "link" : "#trangchu"}
+    ]
+}
